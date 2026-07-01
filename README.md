@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I’m Yushan Xia👋
 
-<!--
-**yushan-xia/yushan-xia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Incoming Information Technology student, concentration in the Connective Media program @ Cornell Tech.
 
-Here are some ideas to get you started:
+I’m interested in AI products, human-centered technology, media, music, games, and data-driven research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+AI product design  
+Human-centered computing  
+Game systems and player behavior  
+Data-driven research  
+
+---
+
+This GitHub is a work-in-progress where I document my learning and projects.
+Feel free to reach out if we vibe :)
